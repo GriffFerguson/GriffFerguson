@@ -17,5 +17,5 @@ Wanna contact me? Send me a message on Discord: <ins>sirius#9892</ins>
 ### Currently Learning:
 - ⌨️ C#
 - 🎮 Unity
-- 💻 Deciding between Node.js, ExpressJS, and PHP
+- 💻 Deciding between Node.js and PHP
 - 💽 Trying to find a good database
