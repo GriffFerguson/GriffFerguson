@@ -14,6 +14,11 @@ Wanna contact me? Send me a message on Discord: <ins>sirius#9892</ins>
 - 🔫 [Spear PMC's Website](https://spearpmc.netlify.app)<br>
 - 🛸 A currently in-development game with [@Uajrh1](https://github.com/Uajrh1)<br>
 
+### What I currently know:<br>
+- HTML
+- CSS
+- JavaScript
+
 ### Currently Learning:
 - ⌨️ C#
 - 🎮 Unity
