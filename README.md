@@ -9,7 +9,7 @@ Wanna contact me? Send me a message on Discord: <ins>sirius#9892</ins>
 
 ### Current Projects:<br>
 - 📝 [Cornell Notes Creator](https://github.com/Sirius-Development/cornell-notes-creator)<br>
-- ✉️ [Posted](https://github.com/Sirius-Development/Posted) - A **new** social media site<br>
+- ✉️ [Posted](https://posted.netlify.app/) - A **new** social media site<br>
 - 🏫 [Bored@school](https://github.com/Sirius-Development/bored-at-school) - A web-based library of games<br>
 - 🔫 [Spear PMC's Website](https://spearpmc.netlify.app)<br>
 - 🛸 A currently in-development game with [@Uajrh1](https://github.com/Uajrh1)<br>
