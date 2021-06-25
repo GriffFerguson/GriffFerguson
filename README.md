@@ -7,12 +7,21 @@ I'm always up for a challenge, and if I start a project, I will complete at some
 Wanna contact me? Send me a message on Discord: <ins>sirius#9892</ins>
 <hr>
 
+## Projects
+
 ### Current Projects:<br>
 - 📝 [Cornell Notes Creator](https://github.com/Sirius-Development/cornell-notes-creator)<br>
 - ✉️ [Posted](https://posted.netlify.app/) - A **new** social media site<br>
 - 🏫 [Bored@school](https://github.com/Sirius-Development/bored-at-school) - A web-based library of games<br>
-- 🔫 [Spear PMC's Website](https://spearpmc.netlify.app)<br>
+
 - 🛸 A currently in-development game with [@Uajrh1](https://github.com/Uajrh1)<br>
+
+### Finished Projects:<br>
+- 🔫 [Spear PMC's Website](https://spearpmc.netlify.app)<br>
+
+<hr>
+
+## Knowledge
 
 ### Currently Know:<br>
 <img src="img/HTML_Logo.png" height="90">&nbsp;&nbsp;
