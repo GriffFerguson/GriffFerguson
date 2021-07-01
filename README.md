@@ -10,14 +10,16 @@ Wanna contact me? Send me a message on Discord: <ins>sirius#9892</ins>
 ## Projects
 
 ### Current Projects:<br>
-- 📝 [Cornell Notes Creator](https://github.com/Sirius-Development/cornell-notes-creator)<br>
+##### Primary Project:<br>
 - ✉️ [Posted](https://posted.netlify.app/) - A **new** social media site<br>
-- 🏫 [Bored@school](https://github.com/Sirius-Development/bored-at-school) - A web-based library of games<br>
-
+##### Other Prjects:<br>
+- 📝 [Cornell Notes Creator](https://github.com/Sirius-Development/cornell-notes-creator)<br>
 - 🛸 A currently in-development game with [@Uajrh1](https://github.com/Uajrh1)<br>
 
 ### Finished Projects:<br>
+- 🏫 [Bored@school](https://github.com/Sirius-Development/bored-at-school) - A web-based library of games<br>
 - 🔫 [Spear PMC's Website](https://spearpmc.netlify.app)<br>
+Note: I consider a project complete when it is no longer actively worked on.
 
 <hr>
 
