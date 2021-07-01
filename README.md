@@ -10,9 +10,9 @@ Wanna contact me? Send me a message on Discord: <ins>sirius#9892</ins>
 ## Projects
 
 ### Current Projects:<br>
-##### Primary Project:<br>
+#### Primary Project:<br>
 - ✉️ [Posted](https://posted.netlify.app/) - A **new** social media site<br>
-##### Other Prjects:<br>
+#### Other Prjects:<br>
 - 📝 [Cornell Notes Creator](https://github.com/Sirius-Development/cornell-notes-creator)<br>
 - 🛸 A currently in-development game with [@Uajrh1](https://github.com/Uajrh1)<br>
 
