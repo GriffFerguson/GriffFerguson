@@ -19,7 +19,7 @@ Wanna contact me? Send me a message on Discord: <ins>sirius#9892</ins>
 ### Finished Projects:<br>
 - 🏫 [Bored@school](https://github.com/Sirius-Development/bored-at-school) - A web-based library of games<br>
 - 🔫 [Spear PMC's Website](https://spearpmc.netlify.app)<br>
-- 
+
 Note: I consider a project complete when it is no longer actively worked on.
 
 <hr>
