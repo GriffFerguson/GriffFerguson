@@ -1,10 +1,10 @@
 # <img src="img/logo.jpg" height="30"> Sirius Development
+**President/Founder/Lead Developer @Posted-Communications**
 
 **👋 Hi there!**<br>
 I'm an independent front-end web developer who takes on projects that are way to ambitious for a single-developer!
 I'm always up for a challenge, and if I start a project, I will complete at somepoint.
 <br>
-Wanna contact me? Send me a message on Discord: <ins>sirius#9892</ins>
 <hr>
 
 ## Projects
