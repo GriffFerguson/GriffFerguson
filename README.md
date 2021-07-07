@@ -1,5 +1,5 @@
 # <img src="img/logo.jpg" height="30"> Sirius Development
-**President/Founder/Lead Developer @Posted-Communications**
+**President/Founder/Lead Developer [@Posted-Communications](https://github.com/Posted-Communications), Development Consultant, Independent Developer**
 
 **👋 Hi there!**<br>
 I'm an independent front-end web developer who takes on projects that are way to ambitious for a single-developer!
