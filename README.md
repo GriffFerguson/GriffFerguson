@@ -1,5 +1,5 @@
 # <img src="img/logo.jpg" height="30"> Sirius Development
-**President/Founder/Lead Developer [@Posted-Communications](https://github.com/Posted-Communications), Software Consultant, Independent Developer**
+**Lead Developer/Founder [@Posted-Communications](https://github.com/Posted-Communications), Lead Developer [@IcebergJS](https://github.com/icebergjs) ,Software Consultant, Independent Developer**
 
 <hr>
 
@@ -9,10 +9,11 @@ I'm always up for a challenge, and if I start a project, I will complete at some
 <br>
 <hr>
 
-## Projects
+## Projects:
 ### Current Projects:<br>
 #### Primary Project:<br>
 - ✉️ [Posted](https://posted-support.netlify.app/) - A **new** social media site<br>
+- 🧊 [IcebergJS](https://github.com/icebergjs) - Framework to build entire webpages using JavaScript
 #### Other Projects:<br>
 - 📝 [Cornell Notes Creator](https://github.com/Sirius-Development/cornell-notes-creator)<br>
 - 🛸 A currently in-development game with [@Uajrh1](https://github.com/Uajrh1)<br>
