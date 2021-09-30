@@ -20,7 +20,6 @@ I'm always up for a challenge, and if I start a project, I will complete at some
 
 ### Finished Projects:<br>
 - 🏫 [Bored@school](https://github.com/Sirius-Development/bored-at-school) - A web-based library of games<br>
-- 🔫 [Spear PMC's Website](https://spearpmc.netlify.app)<br>
 
 Note: I consider a project complete when it is no longer actively worked on.
 
