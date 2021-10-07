@@ -15,6 +15,7 @@ I'm always up for a challenge, and if I start a project, I will complete at some
 - ✉️ [Posted](https://posted-support.netlify.app/) - A **new** social media site<br>
 - 🧊 [IcebergJS](https://github.com/iceberg-technologies/icebergjs) - Simple framework to build entire complex websites using simple JavaScript
 #### Other Projects:<br>
+- ☁️ [Blue or Gray Skies](https://blueorgrayskies.netlify.app/) - Weather site using the NWS API
 - 🛸 A currently in-development game with [@Uajrh1](https://github.com/Uajrh1)<br>
 
 ### Finished Projects:<br>
@@ -29,9 +30,11 @@ Note: I consider a project complete when it is no longer actively worked on.
 ### Currently Know:<br>
 <img src="img/HTML_Logo.png" height="90">&nbsp;&nbsp;
 <img src="img/CSS_Logo.png" height="90">&nbsp;&nbsp;
-<img src="img/JS_Logo.png" height="90">
+<img src="img/JS_Logo.png" height="90">&nbsp;&nbsp;
+<img src="img/TS_Logo.png" height="90">&nbsp;&nbsp;
 
 ### Currently Learning:<br>
 <img src="img/c-sharp_Logo.png" height="90">&nbsp;&nbsp;
 <img src="img/Unity_Logo.png" height="90">&nbsp;&nbsp;
+<img src="img/Python_Logo.png" height="90">&nbsp;&nbsp;
 <img src="img/NodeJS_Logo.png" height="90">&nbsp;&nbsp;<br>
