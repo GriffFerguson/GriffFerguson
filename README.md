@@ -11,9 +11,9 @@ I'm always up for a challenge, and if I start a project, I will complete at some
 <img src="img/CSS_Logo.png" height="90">&nbsp;&nbsp;
 <img src="img/JS_Logo.png" height="90">&nbsp;&nbsp;
 <img src="img/TS_Logo.png" height="90">&nbsp;&nbsp;
+<img src="img/Python_Logo.png" height="90">&nbsp;&nbsp;
+<img src="img/NodeJS_Logo.png" height="90">&nbsp;&nbsp;<br>
 
 ### Currently Learning:<br>
 <img src="img/c-sharp_Logo.png" height="90">&nbsp;&nbsp;
 <img src="img/Unity_Logo.png" height="90">&nbsp;&nbsp;
-<img src="img/Python_Logo.png" height="90">&nbsp;&nbsp;
-<img src="img/NodeJS_Logo.png" height="90">&nbsp;&nbsp;<br>
