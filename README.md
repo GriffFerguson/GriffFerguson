@@ -8,7 +8,7 @@ Co-founder and president of the [Memorial Academy of Science and Technology](htt
 
 ## Knowledge
 
-### Development experience in:<br>
+### Development experience using:<br>
 #### Web Technologies
 <img src="img/HTML_Logo.png" alt="HTML" height="90">&nbsp;&nbsp;
 <img src="img/CSS_Logo.png" alt="CSS" height="90">&nbsp;&nbsp;
@@ -17,12 +17,15 @@ Co-founder and president of the [Memorial Academy of Science and Technology](htt
 <br>
 <img src="img/nextjs.svg" alt="Next.js" height="90">&nbsp;&nbsp;
 <img src="img/svelte.png" alt="Svelte" height="90">&nbsp;&nbsp;
-<img src="img/Expressjs.png" alt="ExpressJS" height="90">&nbsp;&nbsp;
+<img src="img/react.png" alt="react" height="90">&nbsp;&nbsp;
 <img src="img/pug.png" alt="Pug" height="90">&nbsp;&nbsp;
 
 #### Server-side Tools
+<img src="img/Expressjs.png" alt="ExpressJS" height="90">&nbsp;&nbsp;
 <img src="img/mongo.png" alt="MongoDB" height="90">&nbsp;&nbsp;
 <img src="img/nginx.png" alt="NGINX" height="90">&nbsp;&nbsp;
+<img src="img/postgres.png" alt="Postgres" height="90">&nbsp;&nbsp;
+<img src="img/docker.png" alt="Docker" height="90">&nbsp;&nbsp;
 
 #### Languages/Runtimes
 <img src="img/NodeJS_Logo.png" alt="NodeJS" height="90">&nbsp;&nbsp;
@@ -33,16 +36,17 @@ Co-founder and president of the [Memorial Academy of Science and Technology](htt
 
 ### Currently Learning:<br>
 <img src="img/c-sharp_Logo.png" alt="C#" height="90">&nbsp;&nbsp;
-<img src="img/react.png" alt="react" height="90">&nbsp;&nbsp;
+<img src="img/electron.svg" alt="ElectronJS" height="90">&nbsp;&nbsp;
 
 <br>
 
-### System Administrator experience in:<br>
+### System Administrator experience with:<br>
 [<img src="img/microsoft_365.png" alt="Microsoft 365" height="90">](https://www.microsoft365.com/)&nbsp;&nbsp;
 #### Self-hosted instances
 [<img src="img/searxng.svg" alt="SearxNG" height="90">](https://docs.searxng.org)* &nbsp;&nbsp;
 [<img src="img/mailcow.svg" alt="mailcow" height="90">](https://docs.mailcow.email/)* &nbsp;&nbsp;
 [<img src="img/nextcloud_white.svg" alt="Nextcloud" height="90">](https://nextcloud.com/)* &nbsp;&nbsp;
 [<img src="img/mediawiki.svg" alt="MediaWiki" height="90">](https://www.mediawiki.org/wiki/MediaWiki)&nbsp;&nbsp;
+[<img src="img/coolify.png" alt="Coolify" height="90">](https://coolify.io/)&nbsp;&nbsp;
 
 \* =  used for daily personal use
